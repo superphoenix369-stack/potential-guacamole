@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:beacon",
+  "base": "wearablerelics:empty_amulet",
+  "addition": "minecraft:gold_ingot",
+  "result": {
+    "id": "wearablerelics:beacon_amulet",
+    "components": {
+      "wearablerelics:beacon_effect": "minecraft:haste"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "icon": "wearablerelics:container/slots/pendant",
+  "order": -1000,
+  "validator_predicates": [
+    "trinkets:default"
+  ]
+}
