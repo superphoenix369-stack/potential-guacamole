@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "wearablerelics:beacon_amulet",
+  "addition": "minecraft:amethyst_block",
+  "result": {
+    "id": "wearablerelics:beacon_amulet",
+    "components": {
+      "wearablerelics:beacon_effect": "minecraft:regeneration"
+    }
+  }
+}

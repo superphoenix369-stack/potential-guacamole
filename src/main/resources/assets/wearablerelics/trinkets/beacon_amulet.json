@@ -1,0 +1,17 @@
+{
+  "target": [
+    "wearablerelics:beacon_amulet"
+  ],
+  "render": [
+    {
+      "type": "model",
+      "model_part": "body",
+      "offset": [
+        0,
+        1,
+        1
+      ],
+      "model": "wearablerelics:item/worn_beacon_necklace"
+    }
+  ]
+}
